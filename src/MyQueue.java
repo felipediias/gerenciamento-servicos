@@ -4,5 +4,4 @@ public interface MyQueue<E> {
     E front();
     boolean isEmpty();
     int size();
-    print();
 }
